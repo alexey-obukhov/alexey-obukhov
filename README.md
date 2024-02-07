@@ -45,9 +45,8 @@
 
 [<img align="left" alt="vertok | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="vertok | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="alexey-obukhov | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 
-
----
 
 [github]: https://github.com/alexey-obukhov/alexey-obukhov
 [linkedin]: https://www.linkedin.com/in/alexeyobukhov
