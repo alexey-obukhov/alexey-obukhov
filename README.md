@@ -14,6 +14,7 @@
 🌱 I’ve gained valuable experience and skills in Mathematics, Informatics, and Geomatics, having pursued studies in these fields across three different countries.
 
 🥅 Goals for 2024/25: Exploring new career opportunities that provide competitive remuneration.
+
 ⚡ Fun fact: I can tell you which part of the human body continues to grow throughout one's lifetime.
 
 📫 For a more comprehensive overview, feel free to visit my [linkedin].
