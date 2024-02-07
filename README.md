@@ -7,10 +7,14 @@
 ## I’m a Committed Professional Specializing in Back-end Development and Automation Testing
 
 🖥️ Currently leading a Python-based data analysis project, built from scratch, ensuring its seamless integration with GitLab CI.
-🤖 As a seasoned Software Tester, I've honed my skills in automation using Robot Framework, where I’ve developed and maintained test suites for a diverse range of projects. 
+
+🤖 As a seasoned Software Tester, I've honed my skills in automation using Robot Framework, where I’ve developed and maintained test suites for a diverse range of projects.
+
 🌱 I’ve gained valuable experience and skills in Mathematics, Informatics, and Geomatics, having pursued studies in these fields across three different countries.
+
 🥅 Goals for 2024/25: Exploring new career opportunities that provide competitive remuneration.
 ⚡ Fun fact: I can tell you which part of the human body continues to grow throughout one's lifetime.
+
 📫 For a more comprehensive overview, feel free to visit my [linkedin].
 
 
