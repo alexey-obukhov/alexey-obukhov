@@ -38,8 +38,6 @@
 ![Pytest](https://img.shields.io/static/v1?style=for-the-badge&message=Pytest&color=blue&logo=pytest&logoColor=white&label=)
 ![JUnit](https://img.shields.io/static/v1?style=for-the-badge&message=JUnit5&color=25A162&logo=JUnit5&logoColor=FFFFFF&label=)
 
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
 <br />
 <br />
 
